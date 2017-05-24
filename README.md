@@ -2,6 +2,7 @@
 <ul>
 <li> 一个采用vue2.0+vue-router+vue-resource建立的简单外卖app</br></li>
  <li>数据是简单的mock数据 由node的express框架简单搭建的服务器提供</li>
+ <li>采用了组件化的开发方式</li>
 </ul>
 
 ## Demo地址
