@@ -5,12 +5,8 @@
  <li>采用了组件化的开发方式</li>
 </ul>
 
-## Demo地址
- 
-[外卖app](http://tcwind.cn:9000/#/goods "QAQ")
- 
 ## 使用技术
-***
+
 * 技术：html5、css\css3、javascript\es5
 * 框架：vuejs
 * 测试框架：jasmine、karma
@@ -22,7 +18,7 @@
 * 浏览器：至少支持es5的浏览器，包括ie9及以上版本，edge，safari，opera，chrome，firefox等。
 
 ## 技术学习资料
-***
+
 1. Html5 javascript api：http://html5index.org/ 
 2. Html5标准：https://www.w3.org/TR/html5/
 3. Vue.js文档：https://cn.vuejs.org/ 
@@ -36,7 +32,7 @@
 10. 浏览器支持es5情况：http://caniuse.com/#feat=es5 
 
 ## 一般规范
-***
+
 1. 文件命名必须全为小写字母。
 2. 文件名存在多个字母时使用连字符(-)分隔。所有组件名以uh-开头。
 3. 所有文件（html、css、js等）的每个缩进为4个空格。
