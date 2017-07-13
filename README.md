@@ -67,7 +67,7 @@ https://standardjs.com/rules-zhcn.html
 \* @param {参数的类型} 对应方法中各个参数的解释，每个参数对应一个@param，如果参数类型有多个，</br>
 \* 使用逗号分隔，如{String,Function}，如果可以是任何类型，则使用Any作为类型标记。</br>
 \* @shadowParam 用于描述未在函数的参数列表中定义的参数。</br>
-\ * @returns {返回值的类型} 方法的返回值的描述</br>
+\* @returns {返回值的类型} 方法的返回值的描述</br>
 \*/</br>
 如果使用webstorm，可自动生成。</br>
 
