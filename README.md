@@ -1,10 +1,3 @@
-# 外卖App
-<ul>
-<li> 一个采用vue2.0+vue-router+vue-resource建立的简单外卖app</br></li>
- <li>数据是简单的mock数据 由node的express框架简单搭建的服务器提供</li>
- <li>采用了组件化的开发方式</li>
-</ul>
-
 ## 使用技术
 
 * 技术：html5、css\css3、javascript\es5
@@ -70,7 +63,7 @@ https://standardjs.com/rules-zhcn.html
 4. js方法上的注释格式：</br>
  /**</br>
  \* 方法描述。</br>
-\ *</br>
+\*</br>
 \* @param {参数的类型} 对应方法中各个参数的解释，每个参数对应一个@param，如果参数类型有多个，</br>
 \* 使用逗号分隔，如{String,Function}，如果可以是任何类型，则使用Any作为类型标记。</br>
 \* @shadowParam 用于描述未在函数的参数列表中定义的参数。</br>
