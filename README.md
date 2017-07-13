@@ -55,3 +55,26 @@
 * Element：对应模块中的节点名 Confirm Button
 * Modifier：对应节点相关的状态，如 disabled、highlight
 
+综上，BEM 最终得到的 class 名为 dialog\__confirm-button--highlight。使用双符号 __ 和 -- 是为了和区块内单词间的分隔符区分开来。
+参考资料如下：
+http://www.w3cplus.com/css/bem-definitions.html 
+http://www.w3cplus.com/preprocessor/getting-sass-y-with-bem.html 
+http://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html
+
+##javascript编码规范
+
+1. 语言级别的编码规范请参考如下资料，仔细阅读并遵守：
+https://standardjs.com/rules-zhcn.html 
+2. 每个js模块的开头必须添加注释说明该模块的作用。
+3. 每个js方法前必须添加注释说明该方法的作。
+4. js方法上的注释格式：
+ /**
+ \* 方法描述。
+ *
+\* @param {参数的类型} 对应方法中各个参数的解释，每个参数对应一个@param，如果参数类型有多个，
+\* 使用逗号分隔，如{String,Function}，如果可以是任何类型，则使用Any作为类型标记。
+\* @shadowParam 用于描述未在函数的参数列表中定义的参数。
+\ * @returns {返回值的类型} 方法的返回值的描述
+\*/
+如果使用webstorm，可自动生成。
+
