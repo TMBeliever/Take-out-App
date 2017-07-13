@@ -9,7 +9,7 @@
  
 [外卖app](http://tcwind.cn:9000/#/goods "QAQ")
  
-##使用技术
+## 使用技术
 ***
 技术：html5、css\css3、javascript\es5
 框架：vuejs
@@ -21,7 +21,7 @@
 开发工具（强烈建议）：webstorm
 浏览器：至少支持es5的浏览器，包括ie9及以上版本，edge，safari，opera，chrome，firefox等。
 
-##技术学习资料
+## 技术学习资料
 ***
 1） Html5 javascript api：http://html5index.org/ 
 2） Html5标准：https://www.w3.org/TR/html5/ 
