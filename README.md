@@ -55,7 +55,7 @@
 * Element：对应模块中的节点名 Confirm Button
 * Modifier：对应节点相关的状态，如 disabled、highlight
 
-综上，BEM 最终得到的 class 名为 dialog\__confirm-button--highlight。使用双符号 __ 和 -- 是为了和区块内单词间的分隔符区分开来。
+综上，BEM 最终得到的 class 名为 dialog\__confirm-button--highlight。使用双符号 __ 和 -- 是为了和区块内单词间的分隔符区分开来。</br>
 参考资料如下：
 http://www.w3cplus.com/css/bem-definitions.html 
 http://www.w3cplus.com/preprocessor/getting-sass-y-with-bem.html 
