@@ -3,7 +3,7 @@
     <v-header v-bind:seller="seller"></v-header>
     <div class="tab">
       <div class="tab-item border-1px">
-        <router-link to="/goods"><p>商品</p></router-link>
+        <router-link to="/goods"><p>商</p></router-link>
       </div>
       <div class="tab-item">
         <router-link to="/ratings"><p>评论</p></router-link>
